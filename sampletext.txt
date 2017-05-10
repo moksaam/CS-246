@@ -1,3 +1,6 @@
 Text
 We are making changes.
-This is different.
+
+=======
+This has been modified.
+>>>>>>> c1bf3fc03f902dce24837cbfb414f9c2102846ad
